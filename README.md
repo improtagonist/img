@@ -1,1 +1,1 @@
-# for uoloading img
+# for uploading img
